@@ -1,8 +1,8 @@
-**Basics of Operating Systems**
+# **Basics of Operating Systems**
 
 This repository contains basic implementations of key operating system algorithms, written in Jupyter Notebook (.ipynb) format. These programs cover concepts like CPU scheduling, memory management, page replacement, deadlock handling, and disk scheduling, making them ideal for students and enthusiasts looking to understand OS fundamentals.
 
-**Table of Contents**
+## **Table of Contents**
 
 1. Introduction
 2. Features
@@ -10,43 +10,45 @@ This repository contains basic implementations of key operating system algorithm
 4. File Overview
 5. License
 
-**Introduction**
+## **Introduction**
 
 Operating systems are a crucial part of modern computing, responsible for resource management, process scheduling, and ensuring efficient communication between hardware and software. This repository provides simple and clear implementations of key algorithms, making it easier to grasp their functionality through code.
 
-**Features**
+## **Features**
 
 The repository includes implementations of the following algorithms:
 
-1. CPU Scheduling Algorithms:
+### 1. CPU Scheduling Algorithms:
    - First Come First Serve (FCFS)
    - Shortest Job First (SJF)
    - Round Robin (RR)
    - Priority Scheduling
-2. Deadlock Handling:
+### 2. Deadlock Handling:
    - Basic implementation of deadlock detection and prevention.
-3. Memory Management:
+### 3. Memory Management:
    - Best Fit, Worst Fit, and First Fit memory partitioning algorithms.
-4. Page Replacement:
+### 4. Page Replacement:
    - Least Recently Used (LRU) page replacement algorithm.
-5. Disk Scheduling:
+### 5. Disk Scheduling:
    - FCFS (First Come First Serve)
    - SSTF (Shortest Seek Time First)
    - C-LOOK (Circular LOOK)
 
-**Setup Instructions**
+## **Setup Instructions**
 
 To run the Jupyter Notebook files, follow these steps:
 
 1. Clone the repository to your local machine:
+   '''
    git clone https://github.com/paldp20/Basics_of_Operating_Systems.git
-2. Navigate to the repository folder:
+   '''
+3. Navigate to the repository folder:
    cd Basics_of_Operating_Systems
-3. Ensure that you have Python and Jupyter Notebook installed. You can install Jupyter Notebook using pip:
+4. Ensure that you have Python and Jupyter Notebook installed. You can install Jupyter Notebook using pip:
    pip install notebook
-4. Start Jupyter Notebook:
+5. Start Jupyter Notebook:
    jupyter notebook
-5. Open any .ipynb file in the repository to view and run the code.
+6. Open any .ipynb file in the repository to view and run the code.
 
 **File Overview**
 
