@@ -39,10 +39,14 @@ The repository includes implementations of the following algorithms:
 To run the Jupyter Notebook files, follow these steps:
 
 1. Clone the repository to your local machine:
-   `git clone https://github.com/paldp20/Basics_of_Operating_Systems.git`
+   ```
+   git clone https://github.com/paldp20/Basics_of_Operating_Systems.git
+   ```
 3. Navigate to the repository folder:
-   `cd Basics_of_Operating_Systems`
-4. Open any .ipynb file in the repository to view and run the code.
+   ```
+   cd Basics_of_Operating_Systems
+   ```
+5. Open any .ipynb file in the repository to view and run the code.
 
 ## **File Overview**
 
