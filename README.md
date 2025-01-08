@@ -8,6 +8,7 @@ This repository contains basic implementations of key operating system algorithm
 2. Features
 3. Setup Instructions
 4. File Overview
+5. License
 
 ## **Introduction**
 
@@ -69,3 +70,6 @@ To run the Jupyter Notebook files, follow these steps:
   - FCFS (First Come First Serve)
   - SSTF (Shortest Seek Time First)
   - C-LOOK (Circular LOOK)
+
+## **License**
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute the code with proper attribution.
