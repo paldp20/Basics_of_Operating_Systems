@@ -39,35 +39,29 @@ The repository includes implementations of the following algorithms:
 To run the Jupyter Notebook files, follow these steps:
 
 1. Clone the repository to your local machine:
-   '''
-   git clone https://github.com/paldp20/Basics_of_Operating_Systems.git
-   '''
+   `git clone https://github.com/paldp20/Basics_of_Operating_Systems.git`
 3. Navigate to the repository folder:
-   cd Basics_of_Operating_Systems
-4. Ensure that you have Python and Jupyter Notebook installed. You can install Jupyter Notebook using pip:
-   pip install notebook
-5. Start Jupyter Notebook:
-   jupyter notebook
-6. Open any .ipynb file in the repository to view and run the code.
+   `cd Basics_of_Operating_Systems`
+4. Open any .ipynb file in the repository to view and run the code.
 
-**File Overview**
+## **File Overview**
 
-CPU Scheduling
+### CPU Scheduling
 - fcfs.ipynb: Demonstrates the First Come First Serve (FCFS) scheduling algorithm.
 - sjf.ipynb: Implements the Shortest Job First (SJF) scheduling algorithm.
 - round_robin.ipynb: Implements the Round Robin (RR) scheduling algorithm.
 - priority_scheduling.ipynb: Implements the Priority Scheduling algorithm.
 
-Deadlock
+### Deadlock
 - deadlock.ipynb: Basic demonstration of deadlock detection and prevention techniques.
 
-Memory Management
+### Memory Management
 - memory_partitioning.ipynb: Implements Best Fit, Worst Fit, and First Fit memory allocation algorithms.
 
-Page Replacement
+### Page Replacement
 - page_replacement_lru.ipynb: Demonstrates the Least Recently Used (LRU) page replacement algorithm.
 
-Disk Scheduling
+### Disk Scheduling
 - disk_scheduling.ipynb: Implements disk scheduling algorithms including:
   - FCFS (First Come First Serve)
   - SSTF (Shortest Seek Time First)
